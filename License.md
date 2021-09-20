@@ -1,0 +1,3 @@
+a gpl
+
+a bsd
